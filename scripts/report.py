@@ -9,4 +9,4 @@ with open('results.txt', 'w') as result:
       result.write('Best R2 Score: 0.938\n')
       result.write('\n')
       result.write('Deep Learning LSTM Regression\n')
-      result.write('Best R2 Score: 0.0.904\n')
+      result.write('Best R2 Score: 0.904\n')
